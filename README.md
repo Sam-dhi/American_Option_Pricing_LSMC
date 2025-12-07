@@ -251,18 +251,3 @@ Overall, this demonstrates that the LSMC implementation is:
 - **Accurate** across different volatility regimes.
 
 ---
-
-## 6. How to Run
-
-### 6.1 Requirements
-
-- Python 3.x
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `tqdm`
-
-You can install via:
-
-```bash
-pip install -r requirements.txt
